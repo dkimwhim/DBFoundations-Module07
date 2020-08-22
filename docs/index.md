@@ -1,8 +1,8 @@
 # Explain Functions
-*Daniel Kim  *
-*August 21, 2020  *
-*Foundations of Database  *
-*Assignment 07  *
+*Daniel Kim*  
+*August 21, 2020*  
+*Foundations of Database*  
+*Assignment 07*  
 
 ## Introduction
 In this document, I will be answering two questions:
