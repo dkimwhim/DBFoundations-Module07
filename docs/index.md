@@ -1,8 +1,8 @@
 # Explain Functions
-*Daniel Kim*
-*August 21, 2020*
-*Foundations of Database*
-*Assignment 07*
+*Daniel Kim  *
+*August 21, 2020  *
+*Foundations of Database  *
+*Assignment 07  *
 
 ## Introduction
 In this document, I will be answering two questions:
@@ -17,7 +17,6 @@ We use scalar functions to return a single value whereas inline and multi-statem
 
 ## Summary
 Functions provide the customizability in formatting the data to present to end users for reporting and analytical inquiries.
-
 
 ## Citations
 - https://database.guide/what-is-a-table-valued-function-in-sql-server/
