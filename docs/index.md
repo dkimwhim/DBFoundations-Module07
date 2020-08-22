@@ -1,4 +1,4 @@
-# Explain Functions
+# Explaining Functions in SQL
 *Daniel Kim*  
 *August 21, 2020*  
 *Foundations of Database*  
